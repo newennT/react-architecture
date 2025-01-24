@@ -6,6 +6,8 @@ import './index.css';
 
 import App from './App';
 
+import Home from './pages/Home/';
+
 
 ReactDOM.render(
 
